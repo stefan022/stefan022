@@ -1,7 +1,7 @@
 # 📌 About Me:
 Hi 👋🏻! My name is Stefan and I'm a FE/React Developer, from Serbia
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-blagojevi%C4%87-2aa3a5273) 
 
 # 💻 Tech Stack:
