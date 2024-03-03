@@ -5,7 +5,7 @@ Hi 👋🏻! My name is Stefan and I'm a Frontend Developer, from Serbia
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-blagojevi%C4%87-2aa3a5273) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwindcss,redux,vue,pinia,html,css,sass,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwindcss,redux,vue,pinia,html,css,sass,bootstrap,git,ubuntu)](https://skillicons.dev)
 
 # 📊 Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=stefan022&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
